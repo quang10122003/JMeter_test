@@ -17,16 +17,18 @@
     - Ramp-Up Period(seconds): 2
     - Loop Count: 10
 ### 1. Kiểm tra `canvas.phenikaa-uni.edu.vn`
-- ![alt text](image.png)
+- ![image](https://github.com/quang10122003/JMeter_test/assets/124878902/975f424c-2ca5-40fc-afb2-583dd59f06bb)
 
 
 ### 2. Kiểm tra `canvas.phenikaa-uni.edu.vn/courses`
-- ![alt text](image-1.png)
+- ![image-1](https://github.com/quang10122003/JMeter_test/assets/124878902/b18f14f6-981f-4f86-9120-e177ea9a9dcb)
 
 ### 3. Kiểm tra `canvas.phenikaa-uni.edu.vn/courses/10836`
-- ![alt text](image-2.png)
+- ![image-2](https://github.com/quang10122003/JMeter_test/assets/124878902/e1276356-848e-4737-865a-5a4d124207d7)
+
 
 ### 4. View Results Tree
-- ![alt text](image-3.png)
+- ![image-3](https://github.com/quang10122003/JMeter_test/assets/124878902/37e53e4b-7969-414b-af1b-121b77fa8a28)
+
 ## Kết quả in ra loading.csv
-- ![alt text](image-4.png)
+- ![image-4](https://github.com/quang10122003/JMeter_test/assets/124878902/e37236d7-1a81-4dff-8421-699776b10bec)
